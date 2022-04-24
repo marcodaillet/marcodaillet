@@ -1,4 +1,4 @@
-## Hello, I'm [Marco Daillet !] 👋
+## Hello, I'm Marco Daillet !👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -31,8 +31,8 @@
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: mdaillet@student.42.fr.
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Marcodaillet/)](https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![Linkedin: Marcodaillet](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Marcodaillet/)](https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/)
+[![GitHub Marcodaillet](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/marcodaillet)
 
 **Languages and Tools:**  
 
