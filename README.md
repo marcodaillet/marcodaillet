@@ -3,16 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcodaillet&label=Profile%20views&color=0e75b6&style=flat" alt="marcodaillet" /> </p>
 
-- 🔭 I’m currently working on **a docker project**
+- 🔭 I’m currently studying at [42 School Paris](https://42.fr/)
 
-- 📫 How to reach me **mdaillet@student.42.fr**
+- 👯 I’m really curious about **blockchain**
+
+- 🤝 I’m currently working on a **Docker personal project**
+
+- 📫 How to reach me : **mdaillet@student.42.fr**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/](https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/)
 
+- ⚡ Fun fact : **I used to study accountancy and management**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marc-eloi daillet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-eloi daillet" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/marc-eloi daillet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marc-eloi daillet" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/marc-eloi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/marc-eloi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcodaillet&show_icons=true&locale=en&layout=compact" alt="marcodaillet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcodaillet&show_icons=true&locale=en" alt="marcodaillet" /></p>
+
