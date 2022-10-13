@@ -7,8 +7,6 @@
 
 - 👯 I’m really curious about **blockchain**
 
-- 🤝 I’m currently working on a **Docker personal project**
-
 - 📫 How to reach me : **mdaillet@student.42.fr**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/](https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/)
