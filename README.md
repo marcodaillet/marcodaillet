@@ -5,13 +5,10 @@
 
 - 🔭 I’m currently studying at [42 School Paris](https://42.fr/)
 
-- 👯 I’m really curious about **blockchain**
-
 - 📫 How to reach me : **mdaillet@student.42.fr**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/](https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/)
 
-- ⚡ Fun fact : **I used to study accountancy and management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
