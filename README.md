@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at [42 School Paris](https://42.fr/)
 
-- 📫 How to reach me : **mdaillet@student.42.fr**
+- 📫 How to reach me : **marceloidaillet@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/](https://www.linkedin.com/in/marc-eloi-daillet-a8642b15b/)
 
