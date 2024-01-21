@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc-Eloi Daillet !</h1>
-<h3 align="center">A passionate fullstack student in France</h3>
+<h3 align="center">A passionate Software Engineer student from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcodaillet&label=Profile%20views&color=0e75b6&style=flat" alt="marcodaillet" /> </p>
 
